@@ -1,0 +1,5 @@
+.gitignore
+.license_ignore
+LICENSE
+MAINTAINERS
+Makefile
